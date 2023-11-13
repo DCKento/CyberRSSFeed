@@ -1,0 +1,724 @@
+[source001]
+name = "Packet_Storm"
+url = "http://rss.packetstormsecurity.com/"
+max_items = "3"
+
+[source002]
+name = "CERT_EU"
+url = "http://cert.europa.eu/rss?type=category&id=CERT-LatestNews&language=all&duplicates=false"
+max_items = "3"
+
+[source003]
+name = "Security_NL_nieuws"
+url = "https://www.security.nl/rss/headlines.xml"
+max_items = "3"
+
+[source004]
+name = "Proofpoint_Threat_Insight"
+url = "https://www.proofpoint.com/us/threat-insight-blog.xml"
+max_items = "3"
+
+[source005]
+name = "Imperialviolet"
+url = "https://www.imperialviolet.org/iv-rss.xml"
+max_items = "3"
+
+[source006]
+name = "lab52"
+url = "https://lab52.io/blog/feed/"
+max_items = "3"
+
+[source007]
+name = "dev_random"
+url = "http://blog.rootshell.be/feed/"
+max_items = "3"
+
+[source008]
+name = "F_Secure_Antivirus_Research_Weblog"
+url = "https://labsblog.f-secure.com/feed/rss/"
+max_items = "3"
+
+[source009]
+name = "Graham_Cluley"
+url = "https://www.grahamcluley.com/feed/"
+max_items = "3"
+
+[source010]
+name = "Uploads_by_Hak5"
+url = "https://www.youtube.com/feeds/videos.xml?channel_id=UC3s0BtrBJpwNDaflRSoiieQ"
+max_items = "3"
+
+[source011]
+name = "We_are_OSINTCurio_us"
+url = "https://osintcurio.us/feed/"
+max_items = "3"
+
+[source012]
+name = "Detectify_Labs"
+url = "https://labs.detectify.com/feed/atom/"
+max_items = "3"
+
+[source013]
+name = "European_Digital_Rights_EDRi"
+url = "http://edri.org/feed/"
+max_items = "3"
+
+[source014]
+name = "SentinelOne"
+url = "http://www.sentinelone.com/feed/"
+max_items = "3"
+
+[source015]
+name = "Red_Canary"
+url = "https://www.redcanary.co/feed/"
+max_items = "3"
+
+[source016]
+name = "Trend_Micro_Research_News_and_Perspectives"
+url = "http://feeds.trendmicro.com/TrendMicroSimplySecurity"
+max_items = "3"
+
+[source017]
+name = "DoublePulsar"
+url = "https://doublepulsar.com/feed"
+max_items = "3"
+
+[source018]
+name = "Privacy_and_Cybersecurity_Law"
+url = "http://feeds.feedburner.com/PrivacyandDataSecurityLaw"
+max_items = "3"
+
+[source019]
+name = "Janet_Community_1293"
+url = "https://community.jisc.ac.uk/blogs/regulatory-developments/feed"
+max_items = "3"
+
+[source020]
+name = "ENISA_News_items"
+url = "http://www.enisa.europa.eu/media/news-items/news-wires/RSS"
+max_items = "3"
+
+[source021]
+name = "SpiderLabs_Anterior"
+url = "https://www.trustwave.com/rss.aspx?type=slblog"
+max_items = "3"
+
+[source022]
+name = "Ars_Technica"
+url = "http://feeds.arstechnica.com/arstechnica/index/"
+max_items = "3"
+
+[source023]
+name = "Carnal0wnage_Blog"
+url = "http://carnal0wnage.blogspot.com/feeds/posts/default"
+max_items = "3"
+
+[source024]
+name = "Word_of_Pie"
+url = "http://wordofpie.com/feed/"
+max_items = "3"
+
+[source025]
+name = "osintme_com"
+url = "https://www.osintme.com/index.php/feed/"
+max_items = "3"
+
+[source026]
+name = "Blog_Deep_Instinct"
+url = "http://blog.deepinstinct.com/feed/"
+max_items = "3"
+
+[source027]
+name = "McAfee_Blog"
+url = "http://blogs.mcafee.com/feed"
+max_items = "3"
+
+[source028]
+name = "Naked_Security"
+url = "https://nakedsecurity.sophos.com/feed/"
+max_items = "3"
+
+[source029]
+name = "VMRay"
+url = "https://www.vmray.com/feed/"
+max_items = "3"
+
+[source030]
+name = "CERT_Polska"
+url = "https://www.cert.pl/en/feed/"
+max_items = "3"
+
+[source031]
+name = "US_CERT_Cyber_Security_Alerts"
+url = "http://www.us-cert.gov/channels/alerts.rdf"
+max_items = "3"
+
+[source032]
+name = "contagio"
+url = "http://contagiodump.blogspot.com/feeds/posts/default?alt=rss"
+max_items = "3"
+
+[source033]
+name = "hackersonlineclub"
+url = "http://blog.hackersonlineclub.com/feeds/posts/default"
+max_items = "3"
+
+[source034]
+name = "Stories_by_Matt_Suiche_on_Medium"
+url = "https://medium.com/feed/@msuiche"
+max_items = "3"
+
+[source035]
+name = "noyb_eu"
+url = "https://noyb.eu/feed"
+max_items = "3"
+
+[source036]
+name = "Fidelis_Cybersecurity"
+url = "http://www.fidelissecurity.com/rss.xml"
+max_items = "3"
+
+[source037]
+name = "Malware_dont_need_Coffee"
+url = "http://malware.dontneedcoffee.com/feeds/posts/default"
+max_items = "3"
+
+[source038]
+name = "Binary_Reverse_Engineering_Blog"
+url = "https://johannesbader.ch/feed.xml"
+max_items = "3"
+
+[source039]
+name = "Netresec"
+url = "http://www.netresec.com/rss.ashx"
+max_items = "3"
+
+[source040]
+name = "Threatpost"
+url = "http://threatpost.com/feed"
+max_items = "3"
+
+[source041]
+name = "Labs_RiskIQ"
+url = "https://www.riskiq.com/blog/category/labs/feed/"
+max_items = "3"
+
+[source042]
+name = "Fireeye"
+url = "http://www.fireeye.com/blog/feed"
+max_items = "3"
+
+[source043]
+name = "CISA_Current_Activity"
+url = "http://www.us-cert.gov/current/index.atom"
+max_items = "3"
+
+[source044]
+name = "Krypt3ia"
+url = "http://krypt3ia.wordpress.com/feed/"
+max_items = "3"
+
+[source045]
+name = "Krebs_on_Security"
+url = "http://krebsonsecurity.com/feed/"
+max_items = "3"
+
+[source046]
+name = "ENISA_Procurement"
+url = "https://www.enisa.europa.eu/search_rss?portal_type=Procurement&callType%3Alist=Call+for+Proposal&review_state=published&submit=Search"
+max_items = "3"
+
+[source047]
+name = "The_State_of_Security"
+url = "http://feeds.feedburner.com/tripwire-state-of-security"
+max_items = "3"
+
+[source048]
+name = "Marcs_Security_Ramblings"
+url = "http://marcrogers.org/feed/"
+max_items = "3"
+
+[source049]
+name = "CISA_ICS_Advisories"
+url = "http://ics-cert.us-cert.gov/advisories/advisories.xml"
+max_items = "3"
+
+[source050]
+name = "Kaspersky_official_blog"
+url = "http://blog.kaspersky.co.uk/feed/"
+max_items = "3"
+
+[source051]
+name = "ENISA_Services"
+url = "https://www.enisa.europa.eu/search_rss?portal_type=Procurement&callType%3Alist=Services&callType%3Alist=Supplies&callType%3Alist=Works&review_state=published&submit=Search"
+max_items = "3"
+
+[source052]
+name = "CloudFlare"
+url = "http://blog.cloudflare.com/rss/"
+max_items = "3"
+
+[source053]
+name = "DDoS_Security_Reports"
+url = "http://www.arbornetworks.com/asert/feed/"
+max_items = "3"
+
+[source054]
+name = "Palo_Alto_Networks_Blog"
+url = "http://researchcenter.paloaltonetworks.com/feed/"
+max_items = "3"
+
+[source055]
+name = "MITRE_ATTACK"
+url = "https://medium.com/feed/mitre-attack"
+max_items = "3"
+
+[source056]
+name = "360_Netlab_Blog"
+url = "http://blog.netlab.360.com/rss/"
+max_items = "3"
+
+[source057]
+name = "Yoroi"
+url = "https://blog.yoroi.company/?feed=rss2"
+max_items = "3"
+
+[source058]
+name = "Blog_Stealthbits_Technologies"
+url = "https://blog.stealthbits.com/feed/"
+max_items = "3"
+
+[source059]
+name = "Curated_Intelligence"
+url = "https://www.curatedintel.org/feeds/posts/default"
+max_items = "3"
+
+[source060]
+name = "Darknet_The_Darkside"
+url = "http://feeds.feedburner.com/darknethackers"
+max_items = "3"
+
+[source061]
+name = "BH_Consulting"
+url = "http://bhconsulting.ie/feed/"
+max_items = "3"
+
+[source062]
+name = "Javvad_Malik"
+url = "http://www.j4vv4d.com/feed/"
+max_items = "3"
+
+[source063]
+name = "SANS_Blog"
+url = "https://digital-forensics.sans.org/blog/feed/"
+max_items = "3"
+
+[source064]
+name = "CyberArk"
+url = "http://www.cyberark.com/feed/"
+max_items = "3"
+
+[source065]
+name = "RiskIQ"
+url = "https://www.riskiq.com/feed/"
+max_items = "3"
+
+[source066]
+name = "Adam_Shostack_and_friends"
+url = "https://adam.shostack.org/blog/feed/"
+max_items = "3"
+
+[source067]
+name = "Huntress_Blog"
+url = "https://www.huntress.com/blog/rss.xml"
+max_items = "3"
+
+[source068]
+name = "Beyondtrust"
+url = "http://blog.beyondtrust.com/feed?post_type=post"
+max_items = "3"
+
+[source069]
+name = "SCADAS_EC"
+url = "http://scadamag.infracritical.com/index.php/feed/"
+max_items = "3"
+
+[source070]
+name = "Cybereason_Blog"
+url = "https://www.cybereason.com/blog/rss.xml"
+max_items = "3"
+
+[source071]
+name = "SCADA_StrangeLove"
+url = "http://scadastrangelove.blogspot.com/feeds/posts/default"
+max_items = "3"
+
+[source072]
+name = "Daily_Dave"
+url = "http://seclists.org/rss/dailydave.rss"
+max_items = "3"
+
+[source073]
+name = "0patch_Blog"
+url = "https://0patch.blogspot.com/feeds/posts/default"
+max_items = "3"
+
+[source074]
+name = "Active_Directory_Security"
+url = "http://adsecurity.org/?feed=rss2"
+max_items = "3"
+
+[source075]
+name = "ENISA_Expressions_of_Interest"
+url = "https://www.enisa.europa.eu/search_rss?portal_type=Procurement&callType%3Alist=Call+for+Expressions+of+Interest&review_state=published&submit=Search"
+max_items = "3"
+
+[source076]
+name = "Dark_Reading"
+url = "http://www.darkreading.com/rss/all.xml"
+max_items = "3"
+
+[source077]
+name = "Alexander_Jager"
+url = "https://www.alexanderjaeger.de/feed/"
+max_items = "3"
+
+[source078]
+name = "Stories_by_thaddeus_t_grugq_on_Medium"
+url = "https://medium.com/feed/@thegrugq/"
+max_items = "3"
+
+[source079]
+name = "Zero_Day_Blog_RSS_ZDNet"
+url = "http://blogs.zdnet.com/security/wp-rss2.php"
+max_items = "3"
+
+[source080]
+name = "Hack_Read"
+url = "http://hackread.com/feed/"
+max_items = "3"
+
+[source081]
+name = "The_Hacker_News"
+url = "http://thehackernews.com/feeds/posts/default"
+max_items = "3"
+
+[source082]
+name = "Cyphort"
+url = "https://www.cyphort.com/feed/"
+max_items = "3"
+
+[source083]
+name = "xorl_eax_eax"
+url = "http://xorl.wordpress.com/feed/"
+max_items = "3"
+
+[source084]
+name = "NCSC_Blog_Feed"
+url = "https://www.ncsc.gov.uk/blogs-feed.xml"
+max_items = "3"
+
+[source085]
+name = "Security_Labs"
+url = "https://blogs.forcepoint.com/security-labs.xml?utm_source=Websense&utm_medium=Redirect"
+max_items = "3"
+
+[source086]
+name = "Malwarebytes_Unpacked"
+url = "http://blog.malwarebytes.org/feed/"
+max_items = "3"
+
+[source087]
+name = "Sector035s_articles_and_news_letters"
+url = "https://sector035.nl/articles.rss"
+max_items = "3"
+
+[source088]
+name = "Securelist"
+url = "http://securelist.com/feed/"
+max_items = "3"
+
+[source089]
+name = "Google_Online_Security_Blog"
+url = "http://googleonlinesecurity.blogspot.com/feeds/posts/default?alt=rss"
+max_items = "3"
+
+[source090]
+name = "TrendLabs_Security_Intelligence_Blog"
+url = "http://feeds.trendmicro.com/Anti-MalwareBlog?format=xml"
+max_items = "3"
+
+[source091]
+name = "Threat_Analysis_Group_TAG"
+url = "https://blog.google/threat-analysis-group/rss"
+max_items = "3"
+
+[source092]
+name = "ENISA_Pre_Information_Notice"
+url = "https://www.enisa.europa.eu/search_rss?portal_type=Procurement&callType%3Alist=Pre+Information+Notice&review_state=published&submit=Search"
+max_items = "3"
+
+[source093]
+name = "Malware_Traffic_Analysis_net_Blog_Entries"
+url = "http://www.malware-traffic-analysis.net/blog-entries.rss"
+max_items = "3"
+
+[source094]
+name = "Cyber_Threat_Alert"
+url = "https://www.cisecurity.org/feed/alert"
+max_items = "3"
+
+[source095]
+name = "Eric_Conrad"
+url = "http://www.ericconrad.com/feeds/posts/default?alt=rss"
+max_items = "3"
+
+[source096]
+name = "NVISO_Labs"
+url = "http://blog.nviso.be/feeds/posts/default?alt=rss"
+max_items = "3"
+
+[source097]
+name = "Full_Disclosure"
+url = "http://seclists.org/rss/fulldisclosure.rss"
+max_items = "3"
+
+[source098]
+name = "TechAnarchy"
+url = "https://techanarchy.net/feed.xml"
+max_items = "3"
+
+[source099]
+name = "HOTforSecurity"
+url = "http://feeds.feedburner.com/HOTforSecurity"
+max_items = "3"
+
+[source100]
+name = "Objective_Sees_Blog"
+url = "https://objective-see.com/rss.xml"
+max_items = "3"
+
+[source101]
+name = "Blog_AttackIQ"
+url = "https://attackiq.com/blog/feed/"
+max_items = "3"
+
+[source102]
+name = "Packet_Storm_Security"
+url = "http://packetstormsecurity.org/headlines.xml"
+max_items = "3"
+
+[source103]
+name = "Microsoft_Security_Bulletins"
+url = "http://www.microsoft.com/technet/security/bulletin/secrss.aspx"
+max_items = "3"
+
+[source104]
+name = "TaoSecurity_Blog"
+url = "http://taosecurity.blogspot.com/feeds/posts/default"
+max_items = "3"
+
+[source105]
+name = "Darktrace_Blog"
+url = "https://www.darktrace.com/blog/index.xml"
+max_items = "3"
+
+[source106]
+name = "The_Register"
+url = "http://www.theregister.co.uk/excerpts.rss"
+max_items = "3"
+
+[source107]
+name = "Technical_Info_Security_Content_Discussion"
+url = "http://www.reddit.com/r/netsec/.rss"
+max_items = "3"
+
+[source108]
+name = "Confiant"
+url = "https://blog.confiant.com/feed"
+max_items = "3"
+
+[source109]
+name = "PhishLabs"
+url = "http://www.phishlabs.com/feed/"
+max_items = "3"
+
+[source110]
+name = "MalwareTech"
+url = "https://www.malwaretech.com/feed/"
+max_items = "3"
+
+[source111]
+name = "CIRCL_Luxembourg"
+url = "https://www.circl.lu/rss.xml"
+max_items = "3"
+
+[source112]
+name = "Nextron_Systems"
+url = "https://www.nextron-systems.com/feed/"
+max_items = "3"
+
+[source113]
+name = "SANS_Internet_Storm_Center"
+url = "http://isc.sans.org/rssfeed.xml"
+max_items = "3"
+
+[source114]
+name = "modernciso_com"
+url = "https://modernciso.com/feed/"
+max_items = "3"
+
+[source115]
+name = "Darknet_Diaries"
+url = "http://feeds.feedburner.com/DarknetDiaries"
+max_items = "3"
+
+[source116]
+name = "Shell_is_Only_the_Beginning"
+url = "http://www.darkoperator.com/blog?format=rss"
+max_items = "3"
+
+[source117]
+name = "dev_ttyS0"
+url = "http://www.devttys0.com/feed/"
+max_items = "3"
+
+[source118]
+name = "Didier_Stevens"
+url = "http://blog.didierstevens.com/feed/"
+max_items = "3"
+
+[source119]
+name = "Errata_Security"
+url = "http://blog.erratasec.com/feeds/posts/default"
+max_items = "3"
+
+[source120]
+name = "SensePost_Blog"
+url = "http://www.sensepost.com/blog/index.rss"
+max_items = "3"
+
+[source121]
+name = "Intrepidus_Group_Insight"
+url = "http://intrepidusgroup.com/insight/feed/"
+max_items = "3"
+
+[source122]
+name = "The_Invisible_Things_Labs_blog"
+url = "http://theinvisiblethings.blogspot.com/feeds/posts/default"
+max_items = "3"
+
+[source123]
+name = "j00ru_vx_tech_blog"
+url = "http://j00ru.vexillium.org/?feed=rss2"
+max_items = "3"
+
+[source124]
+name = "Liquidmatrix_Security_Digest"
+url = "http://feeds.feedburner.com/Liquidmatrix"
+max_items = "3"
+
+[source125]
+name = "MSRC"
+url = "http://blogs.technet.com/b/msrc/atom.aspx"
+max_items = "3"
+
+[source126]
+name = "Kali_Blog"
+url = "http://www.kali.org/feed/"
+max_items = "3"
+
+[source127]
+name = "Strategic_Cyber"
+url = "http://blog.strategiccyber.com/feed/"
+max_items = "3"
+
+[source128]
+name = "OJs_perspective"
+url = "http://buffered.io/atom.xml"
+max_items = "3"
+
+[source129]
+name = "Egor_Homakov"
+url = "http://homakov.blogspot.com/feeds/posts/default"
+max_items = "3"
+
+[source130]
+name = "Metasploit"
+url = "https://community.rapid7.com/community/metasploit/blog/feeds/posts"
+max_items = "3"
+
+[source131]
+name = "RaiderSec"
+url = "http://raidersec.blogspot.com/feeds/posts/default"
+max_items = "3"
+
+[source132]
+name = "jordan_wright"
+url = "http://jordan-wright.github.io/atom.xml"
+max_items = "3"
+
+[source133]
+name = "harmj0y"
+url = "http://www.harmj0y.net/blog/feed/"
+max_items = "3"
+
+[source134]
+name = "pwnag3"
+url = "http://www.pwnag3.com/feeds/posts/default"
+max_items = "3"
+
+[source135]
+name = "ColeSec_Security"
+url = "http://colesec.inventedtheinternet.com/feed/"
+max_items = "3"
+
+[source136]
+name = "Insinuator"
+url = "http://www.insinuator.net/feed/"
+max_items = "3"
+
+[source137]
+name = "Lab_of_a_Penetration_Tester"
+url = "http://www.labofapenetrationtester.com/feeds/posts/default"
+max_items = "3"
+
+[source138]
+name = "Skizzle_Sec"
+url = "http://skizzlesec.com/feed/"
+max_items = "3"
+
+[source139]
+name = "NetSPI_Blog"
+url = "http://www.netspi.com/blog/rssid/1"
+max_items = "3"
+
+[source140]
+name = "Oren_Hafif"
+url = "http://www.orenh.com/feeds/posts/default"
+max_items = "3"
+
+[source141]
+name = "Yossi_Yakubov"
+url = "http://feeds.feedburner.com/YossiYakubov"
+max_items = "3"
+
+[source142]
+name = "PortSwigger_Web_Security_Blog"
+url = "http://blog.portswigger.net/feeds/posts/default"
+max_items = "3"
+
+[source143]
+name = "NotSoSecure_Labs"
+url = "http://www.notsosecure.com/blog/feed/"
+max_items = "3"
+
+[source144]
+name = "US_CERT_Current_Activity"
+url = "http://www.us-cert.gov/ncas/current-activity.xml"
+max_items = "3"
+
+[source145]
+name = "Schneier_on_Security"
+url = "https://www.schneier.com/blog/atom.xml"
+max_items = "3"
