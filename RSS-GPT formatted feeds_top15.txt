@@ -1,0 +1,74 @@
+[source001]
+name = "Packet_Storm"
+url = "http://rss.packetstormsecurity.com/"
+max_items = "3"
+
+[source002]
+name = "Proofpoint_Threat_Insight"
+url = "https://www.proofpoint.com/us/threat-insight-blog.xml"
+max_items = "3"
+
+[source003]
+name = "Ars_Technica"
+url = "http://feeds.arstechnica.com/arstechnica/index/"
+max_items = "3"
+
+[source004]
+name = "US_CERT_Cyber_Security_Alerts"
+url = "http://www.us-cert.gov/channels/alerts.rdf"
+max_items = "3"
+
+[source005]
+name = "The_State_of_Security"
+url = "http://feeds.feedburner.com/tripwire-state-of-security"
+max_items = "3"
+
+[source006]
+name = "Malware News"
+url = "https://malware.news/c/news/8.rss"
+max_items = "3"
+
+[source007]
+name = "The_Hacker_News"
+url = "http://thehackernews.com/feeds/posts/default"
+max_items = "3"
+
+[source008]
+name = "NCSC_Blog_Feed"
+url = "https://www.ncsc.gov.uk/blogs-feed.xml"
+max_items = "3"
+
+[source009]
+name = "Securelist"
+url = "http://securelist.com/feed/"
+max_items = "3"
+
+[source010]
+name = "Google_Online_Security_Blog"
+url = "http://googleonlinesecurity.blogspot.com/feeds/posts/default?alt=rss"
+max_items = "3"
+
+[source011]
+name = "Cyber_Threat_Alert"
+url = "https://www.cisecurity.org/feed/alert"
+max_items = "3"
+
+[source012]
+name = "Microsoft_Security_Bulletins"
+url = "http://www.microsoft.com/technet/security/bulletin/secrss.aspx"
+max_items = "3"
+
+[source013]
+name = "Technical_Info_Security_Content_Discussion"
+url = "http://www.reddit.com/r/netsec/.rss"
+max_items = "3"
+
+[source014]
+name = "SANS_Internet_Storm_Center"
+url = "http://isc.sans.org/rssfeed.xml"
+max_items = "3"
+
+[source015]
+name = "PortSwigger_Web_Security_Blog"
+url = "http://blog.portswigger.net/feeds/posts/default"
+max_items = "3"
