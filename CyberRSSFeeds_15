@@ -1,0 +1,24 @@
+<opml version="1.0">
+    <head>
+        <title>Cyber Security News Feeds</title>
+    </head>
+    <body>
+        <outline text="Cyber Feeds" title="Cyber Feeds">
+            <outline htmlUrl="https://packetstormsecurity.com/" text="Packet Storm" title="Packet Storm" type="rss" xmlUrl="http://rss.packetstormsecurity.com/"/>
+            <outline htmlUrl="https://www.proofpoint.com/us/threat-insight-blog" text="Proofpoint Threat Insight" title="Proofpoint Threat Insight" type="rss" xmlUrl="https://www.proofpoint.com/us/threat-insight-blog.xml"/>
+            <outline htmlUrl="http://feeds.arstechnica.com/arstechnica/index/" text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/"/>
+            <outline htmlUrl="http://www.us-cert.gov/channels/alerts.rdf" text="US CERT Cyber Security Alerts" title="US CERT Cyber Security Alerts" type="rss" xmlUrl="http://www.us-cert.gov/channels/alerts.rdf"/>
+            <outline htmlUrl="http://feeds.feedburner.com/tripwire-state-of-security" text="The State of Security" title="The State of Security" type="rss" xmlUrl="http://feeds.feedburner.com/tripwire-state-of-security"/>
+            <outline htmlUrl="https://malware.news/c/news/8.rss" text="Malware News" title="Malware News" type="rss" xmlUrl="https://malware.news/c/news/8.rss"/>
+            <outline htmlUrl="http://thehackernews.com/feeds/posts/default" text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="http://thehackernews.com/feeds/posts/default"/>
+            <outline htmlUrl="https://www.ncsc.gov.uk/blogs-feed.xml" text="NCSC Blog Feed" title="NCSC Blog Feed" type="rss" xmlUrl="https://www.ncsc.gov.uk/blogs-feed.xml"/>
+            <outline htmlUrl="http://securelist.com/feed/" text="Securelist" title="Securelist" type="rss" xmlUrl="http://securelist.com/feed/"/>
+            <outline htmlUrl="http://googleonlinesecurity.blogspot.com/feeds/posts/default?alt=rss" text="Google Online Security Blog" title="Google Online Security Blog" type="rss" xmlUrl="http://googleonlinesecurity.blogspot.com/feeds/posts/default?alt=rss"/>
+            <outline htmlUrl="https://www.cisecurity.org/feed/alert" text="Cyber Threat Alert" title="Cyber Threat Alert" type="rss" xmlUrl="https://www.cisecurity.org/feed/alert"/>
+            <outline htmlUrl="http://www.microsoft.com/technet/security/bulletin/secrss.aspx" text="Microsoft Security Bulletins" title="Microsoft Security Bulletins" type="rss" xmlUrl="http://www.microsoft.com/technet/security/bulletin/secrss.aspx"/>
+            <outline htmlUrl="http://www.reddit.com/r/netsec/.rss" text="Technical Info Security Content Discussion" title="Technical Info Security Content Discussion" type="rss" xmlUrl="http://www.reddit.com/r/netsec/.rss"/>
+            <outline htmlUrl="http://isc.sans.org/rssfeed.xml" text="SANS Internet Storm Center" title="SANS Internet Storm Center" type="rss" xmlUrl="http://isc.sans.org/rssfeed.xml"/>
+            <outline htmlUrl="http://blog.portswigger.net/feeds/posts/default" text="PortSwigger Web Security Blog" title="PortSwigger Web Security Blog" type="rss" xmlUrl="http://blog.portswigger.net/feeds/posts/default"/>
+        </outline>
+    </body>
+</opml>
